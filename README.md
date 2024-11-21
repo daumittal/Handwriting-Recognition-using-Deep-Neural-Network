@@ -19,7 +19,7 @@ Basic CNN model trained using MNIST and NIST dataset to predict handwritten char
 ![img_2.png](img_2.png)
 
 **Demo**
-![img_3.png](img_3.png)
+![img_5.png](img_5.png)
 
 
 **Features of the Handwriting Recognition System**
